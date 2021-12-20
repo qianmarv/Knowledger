@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6b3e2c01-13a0-4fc3-a541-347243717015
+:END:
+#+title: How to Take Smart Note
+
+* Org Roam
+:PROPERTIES:
+:ID:       0ad5dd88-e200-4618-8b59-98f5af4ad2a3
+:END:
+收藏了一些优秀的文章，介绍了如何使用Orgmode，尤其是Org-Roam来记笔记
+- [[https://blog.jethro.dev/posts/how_to_take_smart_notes_org/][How to Take Smart Notes with Org-Mode?]]
+- [[https://www.zmonster.me/2020/06/27/org-roam-introduction.html][使用 org-roam 构建自己的知识网络]]
+- [[https://www.youtube.com/watch?v=AyhPmypHDEw][Getting Started with Org Roam - Build a Second Brain in Emacs]]
